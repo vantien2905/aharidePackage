@@ -26,7 +26,7 @@ let package = Package(
             name: "aharideTests",
             dependencies: ["aharide"]),
         .binaryTarget(name: "aharide_dependence",
-                      url: "https://github.com/vantien2905/aharidePackage/Sources/aharide_dependence.zip",
+                      url: "https://github.com/vantien2905/aharidePackage/blob/main/Sources/aharide_dependence.zip",
                       checksum: "abe53dacbdd8567d0c430a6ffa9da42bcf7ceb467e7fb4114e50c176691a2eff"
                      )
     ]
